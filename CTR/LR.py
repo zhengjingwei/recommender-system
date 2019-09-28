@@ -1,8 +1,6 @@
 # -*-coding:utf-8-*-
 """
-    Author: Thinkgamer
-    Desc:
-        代码8-3： 第八章 LR模型 电信客户流失预测
+    LR模型 电信客户流失预测
 """
 
 from sklearn.linear_model import LogisticRegression

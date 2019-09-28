@@ -1,8 +1,6 @@
 # -*-coding:utf-8-*-
 """
-    Author: Thinkgamer
-    Desc:
-        代码8-1： 第八章 GBDT模型 电信客户流失预测
+    GBDT模型 电信客户流失预测
 """
 
 from sklearn.model_selection import train_test_split
